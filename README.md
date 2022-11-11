@@ -2,6 +2,8 @@
 
 Docker scripts and compose for sese-engine (https://github.com/RimoChan/sese-engine)
 
+现在最新刀客镜像版本是 `anzupop/sese-engine:2022-11-11`
+
 ## 如何使用？
 
 ```bash
@@ -26,4 +28,4 @@ make clean && make build
 
 ## 总之这里是截图
 
-![刀客](./img/docker.png)
+![刀客](./img/docker-2022-11-11.png)
