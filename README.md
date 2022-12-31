@@ -2,7 +2,7 @@
 
 Docker scripts and compose for sese-engine (https://github.com/RimoChan/sese-engine)
 
-现在最新刀客镜像版本是 `anzupop/sese-engine:2022-11-11`
+现在最新刀客镜像版本是 `anzupop/sese-engine:multiarch`
 
 ## 如何使用？
 
@@ -29,3 +29,5 @@ make clean && make build
 ## 总之这里是截图
 
 ![刀客](./img/docker-2022-11-11.png)
+
+![image](https://user-images.githubusercontent.com/38759782/210130720-b26aa0ef-3b07-4614-9c80-a9ae36344e23.png)
